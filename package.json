@@ -1,0 +1,16 @@
+{
+  "name": "plugin-gen-views-meta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "huala-fun",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "typescript": "^5.4.4",
+    "vite": "^5.2.8"
+  }
+}
